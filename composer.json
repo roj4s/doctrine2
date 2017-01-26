@@ -17,12 +17,18 @@
         "php": "^7.0",
         "ext-pdo": "*",
         "doctrine/collections": "~1.2",
-        "rojas/doctrine-dbal": ">=2.5-dev,<2.7-dev",
+        "doctrine/dbal": "dev-master",
         "doctrine/instantiator": "~1.0.1",
         "doctrine/common": "^2.7.1",
         "doctrine/cache": "~1.4",
         "symfony/console": "~2.5|~3.0"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/roj4s/dbal"
+        }
+    ]
     "require-dev": {
         "symfony/yaml": "~2.3|~3.0",
         "phpunit/phpunit": "^5.4"
