@@ -1,7 +1,7 @@
 {
-    "name": "doctrine/orm",
+    "name": "rojas/doctrine-orm",
     "type": "library",
-    "description": "Object-Relational-Mapper for PHP",
+    "description": "Object-Relational-Mapper for PHP with Few Fixes",
     "keywords": ["orm", "database"],
     "homepage": "http://www.doctrine-project.org",
     "license": "MIT",
