@@ -17,7 +17,7 @@
         "php": "^7.0",
         "ext-pdo": "*",
         "doctrine/collections": "~1.2",
-        "doctrine/dbal": "dev-master",
+        "rojas/doctrine-dbal": "dev-master",
         "doctrine/instantiator": "~1.0.1",
         "doctrine/common": "^2.7.1",
         "doctrine/cache": "~1.4",
@@ -26,7 +26,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/roj4s/doctrine2"
+            "url": "https://github.com/roj4s/dbal"
         }
     ],
     "require-dev": {
