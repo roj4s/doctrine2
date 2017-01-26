@@ -28,7 +28,7 @@
             "type": "vcs",
             "url": "https://github.com/roj4s/dbal"
         }
-    ]
+    ],
     "require-dev": {
         "symfony/yaml": "~2.3|~3.0",
         "phpunit/phpunit": "^5.4"
